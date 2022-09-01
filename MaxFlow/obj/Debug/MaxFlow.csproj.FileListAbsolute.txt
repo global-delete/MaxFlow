@@ -1,0 +1,34 @@
+c:\users\1\documents\visual studio 2015\Projects\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe.config
+c:\users\1\documents\visual studio 2015\Projects\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe
+c:\users\1\documents\visual studio 2015\Projects\MaxFlow\MaxFlow\bin\Debug\MaxFlow.pdb
+c:\users\1\documents\visual studio 2015\Projects\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\MaxFlow\MaxFlow\obj\Debug\MaxFlow.exe
+c:\users\1\documents\visual studio 2015\Projects\MaxFlow\MaxFlow\obj\Debug\MaxFlow.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\MaxFlow\MaxFlow\obj\Debug\MaxFlow.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\MaxFlow\MaxFlow\obj\Debug\MaxFlow.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\MaxFlow\MaxFlow\bin\Debug\MaxFlow.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\MaxFlow\MaxFlow\obj\Debug\MaxFlow.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\MaxFlow\MaxFlow\obj\Debug\MaxFlow.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\MaxFlow\MaxFlow\bin\Debug\MaxFlow.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\MaxFlow\MaxFlow\obj\Debug\MaxFlow.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\MaxFlow\MaxFlow\obj\Debug\MaxFlow.pdb
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe.config
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\MaxFlow\MaxFlow\obj\Debug\MaxFlow.exe
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\MaxFlow\MaxFlow\obj\Debug\MaxFlow.pdb
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\MaxFlow\MaxFlow\bin\Debug\MaxFlow.pdb
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csprojResolveAssemblyReference.cache
+C:\Users\misku\Desktop\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe.config
+C:\Users\misku\Desktop\MaxFlow\MaxFlow\bin\Debug\MaxFlow.exe
+C:\Users\misku\Desktop\MaxFlow\MaxFlow\bin\Debug\MaxFlow.pdb
+C:\Users\misku\Desktop\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csprojAssemblyReference.cache
+C:\Users\misku\Desktop\MaxFlow\MaxFlow\obj\Debug\MaxFlow.csproj.CoreCompileInputs.cache
+C:\Users\misku\Desktop\MaxFlow\MaxFlow\obj\Debug\MaxFlow.exe
+C:\Users\misku\Desktop\MaxFlow\MaxFlow\obj\Debug\MaxFlow.pdb
